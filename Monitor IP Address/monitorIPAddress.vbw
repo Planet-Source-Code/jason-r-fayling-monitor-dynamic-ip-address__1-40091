@@ -1,0 +1,15 @@
+frmMonitorIPAddress = 31, 61, 619, 479, C, 22, 29, 610, 447, C
+CGetIPAddress = 88, 116, 676, 534, C
+cLogFile = 0, 0, 0, 0, C
+XTimerSupport = 0, 0, 0, 0, C
+XTimer = 66, 87, 665, 518, C
+CMonitorIPAddresses = 54, 71, 742, 443, C
+CHostInfo = 0, 0, 0, 0, C
+CHosts = 0, 0, 0, 0, C
+modMonitorIPAddress = 0, 0, 0, 0, C
+frmNotification = 0, 0, 0, 0, C, 66, 87, 665, 517, C
+CSMTP = 0, 0, 599, 430, C
+frmSMTP = 0, 0, 0, 0, C, 88, 116, 687, 546, C
+frmInternal = 0, 0, 0, 0, C, 88, 116, 687, 546, C
+mCallback = 0, 0, 0, 0, C
+SysTray = 56, 111, 655, 541, C
